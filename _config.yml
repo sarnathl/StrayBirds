@@ -1,6 +1,6 @@
 #################################### global configure #######################################
 
-username: minixsarnathl
+username: minixbeta
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
