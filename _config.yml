@@ -4,6 +4,3 @@ markdown: redcarpet
 safe: false
 highlighter: pygments
 title: 飞鸟集1
-
-# theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
-# those themes are all come from GitHub Pages Themes
