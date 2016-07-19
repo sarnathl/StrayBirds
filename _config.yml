@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: sarnathl
+username: minixsarnathl
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
