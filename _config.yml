@@ -1,5 +1,5 @@
 username: sarnathl.liuyan
-baseurl: /StrayBirds
+baseurl: /One
 markdown: redcarpet
 safe: false
 highlighter: pygments
